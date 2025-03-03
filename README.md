@@ -32,7 +32,8 @@ A modern and user-friendly QR code generator built with Python and Tkinter.
 
 ## 🎨 Screenshots
 
-[Screenshots will be added after running the application]
+<img width="1470" alt="Screenshot 2025-03-03 at 5 25 55 PM" src="https://github.com/user-attachments/assets/d0de9879-407b-4aa1-b619-574cb8cb1f9d" />
+
 
 ## 🤖 Extra Features
 
